@@ -1,0 +1,7 @@
+pandas 
+numpy
+pennylane
+pennylane-lightning
+scikit-learn
+matplotlib
+
